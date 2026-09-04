@@ -16,3 +16,8 @@ __pycache__/
 # Operating-system and editor files
 .DS_Store
 Thumbs.db
+
+# Python packaging output
+*.egg-info/
+build/
+dist/
