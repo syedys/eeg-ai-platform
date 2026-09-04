@@ -59,9 +59,11 @@ These items have been learned and used in the project. They should be demonstrat
 
 ## Current status
 
-Stage 1 is nearly complete. The initial package structure is installed and both automated tests pass.
+Stage 1 is complete. The development environment, GitHub repository, installable package structure, and initial automated tests are working and synchronized.
 
 ## Next steps
 
-- Commit and push the tested Python project structure
+- Pull the completed Stage 1 record into the local repository
 - Begin Stage 2: Python and data-processing foundations
+- Add NumPy and Pandas as project dependencies
+- Build and test a small EEG signal data-processing module
